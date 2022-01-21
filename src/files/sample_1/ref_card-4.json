@@ -1,0 +1,541 @@
+{
+    "id": 8016,
+    "status": "processed",
+    "total_items": 1,
+    "total_processed": 1,
+    "total_pending": 0,
+    "total_error": 0,
+    "total_processing": 0,
+    "process_assets": {
+        "student_list": [
+            {
+                "assets": [
+                    {
+                        "url": "https://at-omr-v2-prd.S3.amazonaws.com/omr_storage/output/reader/colnonoise01MOBqLQm6VX.jpg",
+                        "page": 1,
+                        "items": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12,
+                            13,
+                            14,
+                            15
+                        ],
+                        "results": [
+                            {
+                                "item": 1,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.314,
+                                        "value": "B"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            0
+                                        ],
+                                        [
+                                            480,
+                                            0
+                                        ],
+                                        [
+                                            0,
+                                            63
+                                        ],
+                                        [
+                                            480,
+                                            63
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "item": 2,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.312,
+                                        "value": "A"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            63
+                                        ],
+                                        [
+                                            1680,
+                                            63
+                                        ],
+                                        [
+                                            0,
+                                            126
+                                        ],
+                                        [
+                                            1680,
+                                            126
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "item": 3,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.318,
+                                        "value": "E"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            126
+                                        ],
+                                        [
+                                            1680,
+                                            126
+                                        ],
+                                        [
+                                            0,
+                                            189
+                                        ],
+                                        [
+                                            1680,
+                                            189
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "item": 4,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.325,
+                                        "value": "C"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            189
+                                        ],
+                                        [
+                                            1680,
+                                            189
+                                        ],
+                                        [
+                                            0,
+                                            252
+                                        ],
+                                        [
+                                            1680,
+                                            252
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "item": 5,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.321,
+                                        "value": "C"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            252
+                                        ],
+                                        [
+                                            1680,
+                                            252
+                                        ],
+                                        [
+                                            0,
+                                            315
+                                        ],
+                                        [
+                                            1680,
+                                            315
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "item": 6,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.338,
+                                        "value": "A"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            315
+                                        ],
+                                        [
+                                            1680,
+                                            315
+                                        ],
+                                        [
+                                            0,
+                                            378
+                                        ],
+                                        [
+                                            1680,
+                                            378
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "item": 7,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.365,
+                                        "value": "A"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            378
+                                        ],
+                                        [
+                                            1680,
+                                            378
+                                        ],
+                                        [
+                                            0,
+                                            441
+                                        ],
+                                        [
+                                            1680,
+                                            441
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "item": 8,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.315,
+                                        "value": "D"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            441
+                                        ],
+                                        [
+                                            1680,
+                                            441
+                                        ],
+                                        [
+                                            0,
+                                            504
+                                        ],
+                                        [
+                                            1680,
+                                            504
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "item": 9,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.273,
+                                        "value": "A"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            504
+                                        ],
+                                        [
+                                            1680,
+                                            504
+                                        ],
+                                        [
+                                            0,
+                                            566
+                                        ],
+                                        [
+                                            1680,
+                                            566
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "item": 10,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.316,
+                                        "value": "A"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            566
+                                        ],
+                                        [
+                                            1680,
+                                            566
+                                        ],
+                                        [
+                                            0,
+                                            628
+                                        ],
+                                        [
+                                            1680,
+                                            628
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "item": 11,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.323,
+                                        "value": "D"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            628
+                                        ],
+                                        [
+                                            1680,
+                                            628
+                                        ],
+                                        [
+                                            0,
+                                            690
+                                        ],
+                                        [
+                                            1680,
+                                            690
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "item": 12,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.374,
+                                        "value": "C"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            690
+                                        ],
+                                        [
+                                            1680,
+                                            690
+                                        ],
+                                        [
+                                            0,
+                                            752
+                                        ],
+                                        [
+                                            1680,
+                                            752
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "item": 13,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.313,
+                                        "value": "A"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            752
+                                        ],
+                                        [
+                                            1680,
+                                            752
+                                        ],
+                                        [
+                                            0,
+                                            814
+                                        ],
+                                        [
+                                            1680,
+                                            814
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "item": 14,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.317,
+                                        "value": "B"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            814
+                                        ],
+                                        [
+                                            1680,
+                                            814
+                                        ],
+                                        [
+                                            0,
+                                            876
+                                        ],
+                                        [
+                                            1680,
+                                            876
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "item": 15,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.321,
+                                        "value": "C"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            876
+                                        ],
+                                        [
+                                            1680,
+                                            876
+                                        ],
+                                        [
+                                            0,
+                                            938
+                                        ],
+                                        [
+                                            1680,
+                                            938
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        "snippets": [
+                            {
+                                "key": 0,
+                                "value": "https://at-omr-v2-prd.S3.amazonaws.com/omr_storage/output/reader/cbfbf55080561773ef1b1e14c3b6343b.png"
+                            }
+                        ],
+                        "activity_code": 999,
+                        "activity_model": [
+                            {
+                                "2": 15
+                            }
+                        ],
+                        "activity_answer_model": 1,
+                        "activity_school_subject_options": []
+                    }
+                ],
+                "error_list": [],
+                "school_code": 940,
+                "school_logo": "https://cdn.fakercloud.com/avatars/leemunroe_128.jpg",
+                "school_name": "FEIL - ZIEMANN",
+                "student_code": 524,
+                "student_hash": 459,
+                "registration_code": 284
+            }
+        ]
+    }
+}

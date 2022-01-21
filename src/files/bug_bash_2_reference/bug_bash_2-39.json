@@ -1,0 +1,371 @@
+{
+    "id": 72,
+    "status": "processed",
+    "total_items": 1,
+    "total_processed": 1,
+    "total_pending": 0,
+    "total_error": 0,
+    "total_processing": 0,
+    "process_assets": {
+      "student_list": [
+        {
+          "assets": [
+            {
+              "url": "https://arcotech-dev.S3.amazonaws.com/omr_storage/output/reader/38IDEscola2285IDatividade1225040MariaRita.jpg",
+              "page": 1,
+              "items": [
+                1,
+                2,
+                4,
+                5,
+                6,
+                7,
+                10,
+                11,
+                12
+              ],
+              "results": [
+                {
+                  "item": 1,
+                  "type": 2,
+                  "values": [
+                    {
+                      "key": 0,
+                      "threshold": 0.238,
+                      "value": "A"
+                    }
+                  ],
+                  "is_answered": true,
+                  "position": {
+                    "coords": [
+                      [
+                        0,
+                        0
+                      ],
+                      [
+                        480,
+                        0
+                      ],
+                      [
+                        0,
+                        77
+                      ],
+                      [
+                        480,
+                        77
+                      ]
+                    ]
+                  }
+                },
+                {
+                  "item": 2,
+                  "type": 2,
+                  "values": [
+                    {
+                      "key": 0,
+                      "threshold": 0.216,
+                      "value": "B"
+                    }
+                  ],
+                  "is_answered": true,
+                  "position": {
+                    "coords": [
+                      [
+                        0,
+                        77
+                      ],
+                      [
+                        1680,
+                        77
+                      ],
+                      [
+                        0,
+                        154
+                      ],
+                      [
+                        1680,
+                        154
+                      ]
+                    ]
+                  }
+                },
+                {
+                  "item": 4,
+                  "type": 2,
+                  "values": [
+                    {
+                      "key": 0,
+                      "threshold": 0.13,
+                      "value": "A"
+                    }
+                  ],
+                  "is_answered": true,
+                  "position": {
+                    "coords": [
+                      [
+                        0,
+                        231
+                      ],
+                      [
+                        1680,
+                        231
+                      ],
+                      [
+                        0,
+                        308
+                      ],
+                      [
+                        1680,
+                        308
+                      ]
+                    ]
+                  }
+                },
+                {
+                  "item": 5,
+                  "type": 3,
+                  "values": [
+                    {
+                      "key": 0,
+                      "threshold": 0.184,
+                      "value": "C"
+                    }
+                  ],
+                  "is_answered": true,
+                  "position": {
+                    "coords": [
+                      [
+                        0,
+                        308
+                      ],
+                      [
+                        1680,
+                        308
+                      ],
+                      [
+                        0,
+                        385
+                      ],
+                      [
+                        1680,
+                        385
+                      ]
+                    ]
+                  }
+                },
+                {
+                  "item": 6,
+                  "type": 2,
+                  "values": [
+                    {
+                      "key": 0,
+                      "threshold": 0.214,
+                      "value": "D"
+                    }
+                  ],
+                  "is_answered": true,
+                  "position": {
+                    "coords": [
+                      [
+                        0,
+                        385
+                      ],
+                      [
+                        1680,
+                        385
+                      ],
+                      [
+                        0,
+                        462
+                      ],
+                      [
+                        1680,
+                        462
+                      ]
+                    ]
+                  }
+                },
+                {
+                  "item": 7,
+                  "type": 2,
+                  "values": [
+                    {
+                      "key": 0,
+                      "threshold": 0.239,
+                      "value": "A"
+                    }
+                  ],
+                  "is_answered": true,
+                  "position": {
+                    "coords": [
+                      [
+                        0,
+                        462
+                      ],
+                      [
+                        1680,
+                        462
+                      ],
+                      [
+                        0,
+                        539
+                      ],
+                      [
+                        1680,
+                        539
+                      ]
+                    ]
+                  }
+                },
+                {
+                  "item": 10,
+                  "type": 3,
+                  "values": [
+                    {
+                      "key": 0,
+                      "threshold": 0.168,
+                      "value": "C"
+                    }
+                  ],
+                  "is_answered": true,
+                  "position": {
+                    "coords": [
+                      [
+                        0,
+                        693
+                      ],
+                      [
+                        1680,
+                        693
+                      ],
+                      [
+                        0,
+                        770
+                      ],
+                      [
+                        1680,
+                        770
+                      ]
+                    ]
+                  }
+                },
+                {
+                  "item": 11,
+                  "type": 2,
+                  "values": [
+                    {
+                      "key": 0,
+                      "threshold": 0.185,
+                      "value": "C"
+                    }
+                  ],
+                  "is_answered": true,
+                  "position": {
+                    "coords": [
+                      [
+                        0,
+                        770
+                      ],
+                      [
+                        1680,
+                        770
+                      ],
+                      [
+                        0,
+                        847
+                      ],
+                      [
+                        1680,
+                        847
+                      ]
+                    ]
+                  }
+                },
+                {
+                  "item": 12,
+                  "type": 2,
+                  "values": [
+                    {
+                      "key": 0,
+                      "threshold": 0.237,
+                      "value": "A"
+                    }
+                  ],
+                  "is_answered": true,
+                  "position": {
+                    "coords": [
+                      [
+                        0,
+                        847
+                      ],
+                      [
+                        1680,
+                        847
+                      ],
+                      [
+                        0,
+                        924
+                      ],
+                      [
+                        1680,
+                        924
+                      ]
+                    ]
+                  }
+                }
+              ],
+              "snippets": [
+                {
+                  "key": 0,
+                  "value": "https://arcotech-dev.S3.amazonaws.com/omr_storage/output/reader/56ee3ab34adf4a5ae9f461f7faf520cf.png"
+                }
+              ],
+              "activity_code": 1225040,
+              "activity_model": [
+                {
+                  "2": 2
+                },
+                {
+                  "4": 1
+                },
+                {
+                  "2": 1
+                },
+                {
+                  "3": 1
+                },
+                {
+                  "2": 2
+                },
+                {
+                  "4": 2
+                },
+                {
+                  "3": 1
+                },
+                {
+                  "2": 2
+                }
+              ],
+              "activity_answer_model": [
+                {
+                  "key": 0,
+                  "threshold": 0.473,
+                  "value": 1,
+                  "col": 0
+                }
+              ],
+              "activity_school_subject_options": []
+            }
+          ],
+          "error_list": [],
+          "school_code": 2285,
+          "school_logo": "https://studos-plus.s3.amazonaws.com/client/image/5efe3bd1a2dcc.png",
+          "school_name": "EPHIGENIA",
+          "student_code": 955162,
+          "student_hash": 608,
+          "registration_code": 201201207
+        }
+      ]
+    }
+  }

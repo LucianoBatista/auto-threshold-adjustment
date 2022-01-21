@@ -1,0 +1,185 @@
+{
+    "id": 8853,
+    "status": "processed",
+    "total_items": 1,
+    "total_processed": 1,
+    "total_pending": 0,
+    "total_error": 0,
+    "total_processing": 0,
+    "process_assets": {
+        "student_list": [
+            {
+                "assets": [
+                    {
+                        "url": "https://at-omr-v2-prd.S3.amazonaws.com/omr_storage/output/reader/33IDEscola8616IDatividade1168253PedroHenrique.jpg",
+                        "page": 1,
+                        "items": [
+                            1,
+                            2,
+                            3,
+                            4
+                        ],
+                        "results": [
+                            {
+                                "item": 1,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.348,
+                                        "value": "B"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            0
+                                        ],
+                                        [
+                                            480,
+                                            0
+                                        ],
+                                        [
+                                            0,
+                                            200
+                                        ],
+                                        [
+                                            480,
+                                            200
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "item": 2,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.301,
+                                        "value": "B"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            200
+                                        ],
+                                        [
+                                            1680,
+                                            200
+                                        ],
+                                        [
+                                            0,
+                                            400
+                                        ],
+                                        [
+                                            1680,
+                                            400
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "item": 3,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.341,
+                                        "value": "A"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            400
+                                        ],
+                                        [
+                                            1680,
+                                            400
+                                        ],
+                                        [
+                                            0,
+                                            600
+                                        ],
+                                        [
+                                            1680,
+                                            600
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "item": 4,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.36,
+                                        "value": "C"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            600
+                                        ],
+                                        [
+                                            1680,
+                                            600
+                                        ],
+                                        [
+                                            0,
+                                            800
+                                        ],
+                                        [
+                                            1680,
+                                            800
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        "snippets": [
+                            {
+                                "key": 0,
+                                "value": "https://at-omr-v2-prd.S3.amazonaws.com/omr_storage/output/reader/b77d1b7faa41fcf40e5d6dd4599574a0.png"
+                            }
+                        ],
+                        "activity_code": 1168253,
+                        "activity_model": [
+                            {
+                                "2": 4
+                            }
+                        ],
+                        "activity_answer_model": [
+                            {
+                                "key": 0,
+                                "threshold": 0.291,
+                                "value": 4,
+                                "col": 3
+                            }
+                        ],
+                        "activity_school_subject_options": []
+                    }
+                ],
+                "error_list": [],
+                "school_code": 8616,
+                "school_logo": "https://studos-plus.s3.amazonaws.com/client/image/5f6b93e0a44d6.png",
+                "school_name": "COLÉGIO DOM BOSCO (BALSAS)",
+                "student_code": 1447653,
+                "student_hash": 764156,
+                "registration_code": []
+            }
+        ]
+    }
+}

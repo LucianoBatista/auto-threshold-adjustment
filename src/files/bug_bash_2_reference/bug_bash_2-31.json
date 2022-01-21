@@ -1,0 +1,152 @@
+{
+    "id": 8874,
+    "status": "processed",
+    "total_items": 1,
+    "total_processed": 1,
+    "total_pending": 0,
+    "total_error": 0,
+    "total_processing": 0,
+    "process_assets": {
+        "student_list": [
+            {
+                "assets": [
+                    {
+                        "url": "https://at-omr-v2-prd.S3.amazonaws.com/omr_storage/output/reader/14IDEscola8616IDatividade1167679Helena.jpg",
+                        "page": 1,
+                        "items": [
+                            1,
+                            2,
+                            3
+                        ],
+                        "results": [
+                            {
+                                "item": 1,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.325,
+                                        "value": "E"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            0
+                                        ],
+                                        [
+                                            480,
+                                            0
+                                        ],
+                                        [
+                                            0,
+                                            250
+                                        ],
+                                        [
+                                            480,
+                                            250
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "item": 2,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.334,
+                                        "value": "C"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            250
+                                        ],
+                                        [
+                                            1680,
+                                            250
+                                        ],
+                                        [
+                                            0,
+                                            500
+                                        ],
+                                        [
+                                            1680,
+                                            500
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "item": 3,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.36,
+                                        "value": "B"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            500
+                                        ],
+                                        [
+                                            1680,
+                                            500
+                                        ],
+                                        [
+                                            0,
+                                            750
+                                        ],
+                                        [
+                                            1680,
+                                            750
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        "snippets": [
+                            {
+                                "key": 0,
+                                "value": "https://at-omr-v2-prd.S3.amazonaws.com/omr_storage/output/reader/5ad5ef5537e1ccd79f6d9075eb0a1398.png"
+                            }
+                        ],
+                        "activity_code": 1167679,
+                        "activity_model": [
+                            {
+                                "2": 3
+                            }
+                        ],
+                        "activity_answer_model": [
+                            {
+                                "key": 0,
+                                "threshold": 0.313,
+                                "value": 4,
+                                "col": 3
+                            }
+                        ],
+                        "activity_school_subject_options": []
+                    }
+                ],
+                "error_list": [],
+                "school_code": 8616,
+                "school_logo": "https://studos-plus.s3.amazonaws.com/client/image/5f6b93e0a44d6.png",
+                "school_name": "COLÉGIO DOM BOSCO (BALSAS)",
+                "student_code": 1456389,
+                "student_hash": 9042263,
+                "registration_code": []
+            }
+        ]
+    }
+}

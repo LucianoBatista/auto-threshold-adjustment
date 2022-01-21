@@ -1,0 +1,218 @@
+{
+    "id": 8883,
+    "status": "processed",
+    "total_items": 1,
+    "total_processed": 1,
+    "total_pending": 0,
+    "total_error": 0,
+    "total_processing": 0,
+    "process_assets": {
+        "student_list": [
+            {
+                "assets": [
+                    {
+                        "url": "https://at-omr-v2-prd.S3.amazonaws.com/omr_storage/output/reader/05IDescola1382IDatividade1180879Aluno5.tiff",
+                        "page": 1,
+                        "items": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5
+                        ],
+                        "results": [
+                            {
+                                "item": 1,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.355,
+                                        "value": "A"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            0
+                                        ],
+                                        [
+                                            480,
+                                            0
+                                        ],
+                                        [
+                                            0,
+                                            167
+                                        ],
+                                        [
+                                            480,
+                                            167
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "item": 2,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.348,
+                                        "value": "B"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            167
+                                        ],
+                                        [
+                                            1680,
+                                            167
+                                        ],
+                                        [
+                                            0,
+                                            334
+                                        ],
+                                        [
+                                            1680,
+                                            334
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "item": 3,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.361,
+                                        "value": "C"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            334
+                                        ],
+                                        [
+                                            1680,
+                                            334
+                                        ],
+                                        [
+                                            0,
+                                            501
+                                        ],
+                                        [
+                                            1680,
+                                            501
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "item": 4,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.36,
+                                        "value": "D"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            501
+                                        ],
+                                        [
+                                            1680,
+                                            501
+                                        ],
+                                        [
+                                            0,
+                                            668
+                                        ],
+                                        [
+                                            1680,
+                                            668
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "item": 5,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.317,
+                                        "value": "E"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            668
+                                        ],
+                                        [
+                                            1680,
+                                            668
+                                        ],
+                                        [
+                                            0,
+                                            834
+                                        ],
+                                        [
+                                            1680,
+                                            834
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        "snippets": [
+                            {
+                                "key": 0,
+                                "value": "https://at-omr-v2-prd.S3.amazonaws.com/omr_storage/output/reader/17e9fbbcb87943ed8ea77f5829591f53.png"
+                            }
+                        ],
+                        "activity_code": 1180879,
+                        "activity_model": [
+                            {
+                                "2": 5
+                            }
+                        ],
+                        "activity_answer_model": [],
+                        "activity_school_subject_options": []
+                    }
+                ],
+                "error_list": [],
+                "school_code": 1382,
+                "school_logo": "https://studos-plus.s3.amazonaws.com/client/image/613614a84487c.png",
+                "school_name": "Studos SC",
+                "student_code": 151843,
+                "student_hash": 126,
+                "registration_code": [
+                    {
+                        "key": 0,
+                        "threshold": 0.412,
+                        "value": 0,
+                        "col": 0
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,185 @@
+{
+    "id": 101,
+    "status": "processed",
+    "total_items": 1,
+    "total_processed": 1,
+    "total_pending": 0,
+    "total_error": 0,
+    "total_processing": 0,
+    "process_assets": {
+      "student_list": [
+        {
+          "assets": [
+            {
+              "url": "https://arcotech-dev.S3.amazonaws.com/omr_storage/output/reader/70IDEscola8616IDatividade1168253Marcos.jpg",
+              "page": 1,
+              "items": [
+                1,
+                2,
+                3,
+                4
+              ],
+              "results": [
+                {
+                  "item": 1,
+                  "type": 2,
+                  "values": [
+                    {
+                      "key": 0,
+                      "threshold": 0.427,
+                      "value": "B"
+                    }
+                  ],
+                  "is_answered": true,
+                  "position": {
+                    "coords": [
+                      [
+                        0,
+                        0
+                      ],
+                      [
+                        480,
+                        0
+                      ],
+                      [
+                        0,
+                        200
+                      ],
+                      [
+                        480,
+                        200
+                      ]
+                    ]
+                  }
+                },
+                {
+                  "item": 2,
+                  "type": 2,
+                  "values": [
+                    {
+                      "key": 0,
+                      "threshold": 0.381,
+                      "value": "A"
+                    }
+                  ],
+                  "is_answered": true,
+                  "position": {
+                    "coords": [
+                      [
+                        0,
+                        200
+                      ],
+                      [
+                        1680,
+                        200
+                      ],
+                      [
+                        0,
+                        400
+                      ],
+                      [
+                        1680,
+                        400
+                      ]
+                    ]
+                  }
+                },
+                {
+                  "item": 3,
+                  "type": 2,
+                  "values": [
+                    {
+                      "key": 0,
+                      "threshold": 0.357,
+                      "value": "C"
+                    }
+                  ],
+                  "is_answered": true,
+                  "position": {
+                    "coords": [
+                      [
+                        0,
+                        400
+                      ],
+                      [
+                        1680,
+                        400
+                      ],
+                      [
+                        0,
+                        600
+                      ],
+                      [
+                        1680,
+                        600
+                      ]
+                    ]
+                  }
+                },
+                {
+                  "item": 4,
+                  "type": 2,
+                  "values": [
+                    {
+                      "key": 0,
+                      "threshold": 0.373,
+                      "value": "D"
+                    }
+                  ],
+                  "is_answered": true,
+                  "position": {
+                    "coords": [
+                      [
+                        0,
+                        600
+                      ],
+                      [
+                        1680,
+                        600
+                      ],
+                      [
+                        0,
+                        800
+                      ],
+                      [
+                        1680,
+                        800
+                      ]
+                    ]
+                  }
+                }
+              ],
+              "snippets": [
+                {
+                  "key": 0,
+                  "value": "https://arcotech-dev.S3.amazonaws.com/omr_storage/output/reader/2852e1071d5634e76d8237c0e79b8c0b.png"
+                }
+              ],
+              "activity_code": 1168253,
+              "activity_model": [
+                {
+                  "2": 4
+                }
+              ],
+              "activity_answer_model": [
+                {
+                  "key": 0,
+                  "threshold": 0.272,
+                  "value": 4,
+                  "col": 3
+                }
+              ],
+              "activity_school_subject_options": []
+            }
+          ],
+          "error_list": [],
+          "school_code": 8616,
+          "school_logo": "https://studos-plus.s3.amazonaws.com/client/image/5f6b93e0a44d6.png",
+          "school_name": "COLÉGIO DOM BOSCO (BALSAS)",
+          "student_code": 1279786,
+          "student_hash": 18,
+          "registration_code": []
+        }
+      ]
+    }
+  }

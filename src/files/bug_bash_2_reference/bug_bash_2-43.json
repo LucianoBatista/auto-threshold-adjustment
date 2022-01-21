@@ -1,0 +1,152 @@
+{
+    "id": 8875,
+    "status": "processed",
+    "total_items": 1,
+    "total_processed": 1,
+    "total_pending": 0,
+    "total_error": 0,
+    "total_processing": 0,
+    "process_assets": {
+        "student_list": [
+            {
+                "assets": [
+                    {
+                        "url": "https://at-omr-v2-prd.S3.amazonaws.com/omr_storage/output/reader/13IDEscola8616IDatividade1167679Geovanna.jpg",
+                        "page": 1,
+                        "items": [
+                            1,
+                            2,
+                            3
+                        ],
+                        "results": [
+                            {
+                                "item": 1,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.354,
+                                        "value": "C"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            0
+                                        ],
+                                        [
+                                            480,
+                                            0
+                                        ],
+                                        [
+                                            0,
+                                            250
+                                        ],
+                                        [
+                                            480,
+                                            250
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "item": 2,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.402,
+                                        "value": "D"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            250
+                                        ],
+                                        [
+                                            1680,
+                                            250
+                                        ],
+                                        [
+                                            0,
+                                            500
+                                        ],
+                                        [
+                                            1680,
+                                            500
+                                        ]
+                                    ]
+                                }
+                            },
+                            {
+                                "item": 3,
+                                "type": 2,
+                                "values": [
+                                    {
+                                        "key": 0,
+                                        "threshold": 0.282,
+                                        "value": "B"
+                                    }
+                                ],
+                                "is_answered": true,
+                                "position": {
+                                    "coords": [
+                                        [
+                                            0,
+                                            500
+                                        ],
+                                        [
+                                            1680,
+                                            500
+                                        ],
+                                        [
+                                            0,
+                                            750
+                                        ],
+                                        [
+                                            1680,
+                                            750
+                                        ]
+                                    ]
+                                }
+                            }
+                        ],
+                        "snippets": [
+                            {
+                                "key": 0,
+                                "value": "https://at-omr-v2-prd.S3.amazonaws.com/omr_storage/output/reader/5a457705fc5e4a19357c705b6c3b105d.png"
+                            }
+                        ],
+                        "activity_code": 1167679,
+                        "activity_model": [
+                            {
+                                "2": 3
+                            }
+                        ],
+                        "activity_answer_model": [
+                            {
+                                "key": 0,
+                                "threshold": 0.344,
+                                "value": 3,
+                                "col": 2
+                            }
+                        ],
+                        "activity_school_subject_options": []
+                    }
+                ],
+                "error_list": [],
+                "school_code": 8616,
+                "school_logo": "https://studos-plus.s3.amazonaws.com/client/image/5f6b93e0a44d6.png",
+                "school_name": "COLÉGIO DOM BOSCO (BALSAS)",
+                "student_code": 1456390,
+                "student_hash": 9297,
+                "registration_code": []
+            }
+        ]
+    }
+}
