@@ -22,5 +22,5 @@ def tag_w_user(file: Path):
 
 
 if __name__ == "__main__":
-    file = Path("src", "files", "snippets", "pic_9.png")
+    file = Path("src", "files", "snippets", "pic_6.png")
     tag_w_user(file)
